@@ -1,1 +1,1 @@
-Sitemap: https://zhendongz.github.io/quarto_website/sitemap.xml
+Sitemap: https://github.com/zhendongz/quarto_website/sitemap.xml
